@@ -1,0 +1,7 @@
+avatar_selection_disable_user_upload: false
+avatar_selection_force_user_avatar_reg: false
+avatar_selection_avatar_per_page: 30
+avatar_selection_force_user_avatar: false
+avatar_selection_set_random_default: false
+avatar_selection_distinctive_avatars: false
+avatar_selection_imagecache_preset: ''
